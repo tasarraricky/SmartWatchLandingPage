@@ -451,6 +451,7 @@ nav li.signin:hover {
 #products-features {
     max-width: 1440px;
     margin: 0 auto;
+    height: 70vh;
 }
 #works-unorderedList a:hover {
     color: #11112E;
@@ -458,7 +459,7 @@ nav li.signin:hover {
 
 #product-features-containers {
     position: relative;
-    height: 50vh;
+
     margin: 20px 100px 0px 100px;
 }
 #product-features-containers div {
